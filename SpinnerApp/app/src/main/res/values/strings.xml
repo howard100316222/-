@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array	name="tea">
+        <item>戰士</item>
+        <item>法師</item>
+        <item>弓箭手</item>
+    </string-array>
+</resources>
